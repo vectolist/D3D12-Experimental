@@ -1,0 +1,3 @@
+C:/@GitRepos/@vectolist/D3D12-Experimental/CMakeFiles/ALL_BUILD.dir
+C:/@GitRepos/@vectolist/D3D12-Experimental/Graphics/CMakeFiles/Graphics.dir
+C:/@GitRepos/@vectolist/D3D12-Experimental/Sample/Framework/CMakeFiles/ConstBuffer.dir

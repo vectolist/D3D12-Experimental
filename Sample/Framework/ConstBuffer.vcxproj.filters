@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\@GitRepos\@vectolist\D3D12-Experimental\Sample\Framework\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{787C1182-633F-3F8D-B628-B0D69DBBE1DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

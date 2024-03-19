@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\@GitRepos\@vectolist\D3D12-Experimental\Graphics\DXContext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\@GitRepos\@vectolist\D3D12-Experimental\Graphics\DXConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\@GitRepos\@vectolist\D3D12-Experimental\Graphics\DXContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\@GitRepos\@vectolist\D3D12-Experimental\Graphics\d3dx12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\@GitRepos\@vectolist\D3D12-Experimental\Graphics\d3dx12_root_signature.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8E518FD6-3518-31D1-BB77-0A68F5BEA8C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{787C1182-633F-3F8D-B628-B0D69DBBE1DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
