@@ -78,15 +78,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-1c60ecbccb331309b7e3.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-b8872c103c2062cb1645.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
-					"id" : "ConstBuffer::@5191c3529a068ab6bc55",
-					"jsonFile" : "target-ConstBuffer-Debug-576ec86a7b7a80485cf1.json",
-					"name" : "ConstBuffer",
+					"id" : "Framework::@5191c3529a068ab6bc55",
+					"jsonFile" : "target-Framework-Debug-687b5fed41e3d747b7e7.json",
+					"name" : "Framework",
 					"projectIndex" : 0
 				},
 				{
@@ -175,15 +175,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-1c60ecbccb331309b7e3.json",
+					"jsonFile" : "target-ALL_BUILD-Release-b8872c103c2062cb1645.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
-					"id" : "ConstBuffer::@5191c3529a068ab6bc55",
-					"jsonFile" : "target-ConstBuffer-Release-a6ad72daba0b7d592a8d.json",
-					"name" : "ConstBuffer",
+					"id" : "Framework::@5191c3529a068ab6bc55",
+					"jsonFile" : "target-Framework-Release-cfab44e1d114fdf8a445.json",
+					"name" : "Framework",
 					"projectIndex" : 0
 				},
 				{
@@ -272,15 +272,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-1c60ecbccb331309b7e3.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-b8872c103c2062cb1645.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
-					"id" : "ConstBuffer::@5191c3529a068ab6bc55",
-					"jsonFile" : "target-ConstBuffer-MinSizeRel-ec66e4f28e4015d34798.json",
-					"name" : "ConstBuffer",
+					"id" : "Framework::@5191c3529a068ab6bc55",
+					"jsonFile" : "target-Framework-MinSizeRel-da487169acb3be323219.json",
+					"name" : "Framework",
 					"projectIndex" : 0
 				},
 				{
@@ -369,15 +369,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-1c60ecbccb331309b7e3.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-b8872c103c2062cb1645.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
-					"id" : "ConstBuffer::@5191c3529a068ab6bc55",
-					"jsonFile" : "target-ConstBuffer-RelWithDebInfo-8022bb1cd6fb6b49a533.json",
-					"name" : "ConstBuffer",
+					"id" : "Framework::@5191c3529a068ab6bc55",
+					"jsonFile" : "target-Framework-RelWithDebInfo-b56a3a0d2be347635714.json",
+					"name" : "Framework",
 					"projectIndex" : 0
 				},
 				{

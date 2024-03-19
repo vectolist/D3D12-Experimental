@@ -17,10 +17,10 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "Graphics::@1ff572c405f46b43e0b2"
+			"id" : "Framework::@5191c3529a068ab6bc55"
 		},
 		{
-			"id" : "ConstBuffer::@5191c3529a068ab6bc55"
+			"id" : "Graphics::@1ff572c405f46b43e0b2"
 		}
 	],
 	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",

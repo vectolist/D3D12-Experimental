@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "bin/RelWithDebInfo/ConstBuffer.exe"
+			"path" : "bin/RelWithDebInfo/Framework.exe"
 		},
 		{
-			"path" : "bin/RelWithDebInfo/ConstBuffer.pdb"
+			"path" : "bin/RelWithDebInfo/Framework.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -84,7 +84,7 @@
 			"id" : "Graphics::@1ff572c405f46b43e0b2"
 		}
 	],
-	"id" : "ConstBuffer::@5191c3529a068ab6bc55",
+	"id" : "Framework::@5191c3529a068ab6bc55",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -114,8 +114,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "ConstBuffer",
-	"nameOnDisk" : "ConstBuffer.exe",
+	"name" : "Framework",
+	"nameOnDisk" : "Framework.exe",
 	"paths" : 
 	{
 		"build" : "Sample/Framework",

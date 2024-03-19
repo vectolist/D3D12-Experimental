@@ -22,11 +22,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{1DD4D4F2-42BA-3DEA-8742-3E9FA22D7683}</ProjectGuid>
+    <ProjectGuid>{0F2943EB-859F-3DFF-913C-06C0F3F2AD7B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
-    <ProjectName>ConstBuffer</ProjectName>
+    <ProjectName>Framework</ProjectName>
     <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -60,26 +60,26 @@
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
     <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\@GitRepos\@vectolist\D3D12-Experimental\bin\</OutDir>
-    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ConstBuffer.dir\Debug\</IntDir>
-    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ConstBuffer</TargetName>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Framework.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Framework</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
     <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\@GitRepos\@vectolist\D3D12-Experimental\bin\</OutDir>
-    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ConstBuffer.dir\Release\</IntDir>
-    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ConstBuffer</TargetName>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Framework.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Framework</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
     <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\@GitRepos\@vectolist\D3D12-Experimental\bin\MinSizeRel\</OutDir>
-    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">ConstBuffer.dir\MinSizeRel\</IntDir>
-    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">ConstBuffer</TargetName>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Framework.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Framework</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
     <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\@GitRepos\@vectolist\D3D12-Experimental\bin\RelWithDebInfo\</OutDir>
-    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">ConstBuffer.dir\RelWithDebInfo\</IntDir>
-    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">ConstBuffer</TargetName>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Framework.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Framework</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
@@ -120,8 +120,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/@GitRepos/@vectolist/D3D12-Experimental/Sample/Framework/Debug/ConstBuffer.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/@GitRepos/@vectolist/D3D12-Experimental/bin/ConstBuffer.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/@GitRepos/@vectolist/D3D12-Experimental/Sample/Framework/Debug/Framework.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/@GitRepos/@vectolist/D3D12-Experimental/bin/Framework.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -164,8 +164,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/@GitRepos/@vectolist/D3D12-Experimental/Sample/Framework/Release/ConstBuffer.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/@GitRepos/@vectolist/D3D12-Experimental/bin/ConstBuffer.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/@GitRepos/@vectolist/D3D12-Experimental/Sample/Framework/Release/Framework.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/@GitRepos/@vectolist/D3D12-Experimental/bin/Framework.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -208,8 +208,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/@GitRepos/@vectolist/D3D12-Experimental/Sample/Framework/MinSizeRel/ConstBuffer.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/@GitRepos/@vectolist/D3D12-Experimental/bin/MinSizeRel/ConstBuffer.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/@GitRepos/@vectolist/D3D12-Experimental/Sample/Framework/MinSizeRel/Framework.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/@GitRepos/@vectolist/D3D12-Experimental/bin/MinSizeRel/Framework.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -251,8 +251,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/@GitRepos/@vectolist/D3D12-Experimental/Sample/Framework/RelWithDebInfo/ConstBuffer.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/@GitRepos/@vectolist/D3D12-Experimental/bin/RelWithDebInfo/ConstBuffer.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/@GitRepos/@vectolist/D3D12-Experimental/Sample/Framework/RelWithDebInfo/Framework.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/@GitRepos/@vectolist/D3D12-Experimental/bin/RelWithDebInfo/Framework.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>

@@ -110,9 +110,9 @@
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\@GitRepos\@vectolist\D3D12-Experimental\Sample\Framework\ConstBuffer.vcxproj">
-      <Project>{1DD4D4F2-42BA-3DEA-8742-3E9FA22D7683}</Project>
-      <Name>ConstBuffer</Name>
+    <ProjectReference Include="C:\@GitRepos\@vectolist\D3D12-Experimental\Sample\Framework\Framework.vcxproj">
+      <Project>{0F2943EB-859F-3DFF-913C-06C0F3F2AD7B}</Project>
+      <Name>Framework</Name>
     </ProjectReference>
     <ProjectReference Include="C:\@GitRepos\@vectolist\D3D12-Experimental\Graphics\Graphics.vcxproj">
       <Project>{FFE057FF-5F90-3A52-91DC-4FACBD35F32E}</Project>

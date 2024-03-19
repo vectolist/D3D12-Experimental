@@ -1,11 +1,11 @@
 cmake_minimum_required(VERSION 3.8)
 
 
-add_executable(ConstBuffer main.cpp)
+add_executable(Framework main.cpp)
 
-add_dependencies(ConstBuffer lib::Graphics)
+add_dependencies(Framework lib::Graphics)
 
-set_target_properties(ConstBuffer PROPERTIES
+set_target_properties(Framework PROPERTIES
     CXX_STANDARD    17
     LINKER_LANGUAGE "CXX"
     INCLUDE_DIRECTORIES ${INC_DIR}
